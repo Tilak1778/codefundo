@@ -13,7 +13,7 @@ Project Idea
 
 1  First it will show two options to user either to vote from voter id number or Aadhar number, if user select voter id
     then  this will verify if user is in voter id database or not.  
- 2.If user select Aadhar no. option then it will verify if user is eligible(above 18 years old) for vote or not.
+ 2.If user select Aadhar no. option then it will verify if user is eligible(above 18 years old) to vote or not.
 
 
 Vote Counting
