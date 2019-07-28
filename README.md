@@ -20,6 +20,6 @@ Vote Counting
   
    After verifying the user it will shows the list of candidates of his/her constituency then it will add the users vote to the selected candidate.
 
-After the deadline of voting pole it will shows the winner of election. 
+After the deadline of voting poll it will shows the winner of election. 
 
 Thankyou.
