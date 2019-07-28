@@ -11,7 +11,7 @@ Project Idea
 
   In this application user have two step procedure which is as follows 
 
-1  First it will show two options to user to vote from voter id number or Aadhar number, if user select voter id
+1  First it will show two options to user either to vote from voter id number or Aadhar number, if user select voter id
     then  this will verify if user is in voter id database or not.  
  2.If user select Aadhar no. option then it will verify if user is eligible(above 18 years old) for vote or not.
 
