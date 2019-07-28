@@ -6,7 +6,7 @@ Project Idea
    In order to ensure that election results are honest and accurate we are developing an online open source Azure Blockchain Application   for voting, that provides transparency into election results by allowing voters to independently audit the ballot box. Using cutting edge  technologies, such as blockchain technology and elliptic curve cryptography,  we can actually accomplish this, all while protecting each voter’s right to privacy.
    By this application those citizens who are 18+ and don’t have voter id will have option to vote from Aadhar card no.
    
-   Also there would be a dead line before a user can register let us say 3 weeks before the elections. Candidates can vote from anywhere by selecting as General electors, overseas (NRI) electors or service electors.
+   Also there would be a dead line before a user can register let us say 3 weeks before the elections. Candidates can vote from anywhere by selecting as general electors, overseas (NRI) electors or service electors.
 
 
   In this application user have two step procedure which is as follows 
